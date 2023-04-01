@@ -1,13 +1,3 @@
 {
-  "task": [
-    { 
-      "id":"8",
-      "title": "Arvid",
-      "discition": "jjjhshsbsbnsjj"
-    },
-    {
-      "id": "6",
-      "title": "json-servenyr"
-    }
-  ]
+  "task": []
 }
